@@ -1,8 +1,7 @@
-# domainchecker
-Simple domain status 200 checker
+# DOMAIN_CHECKER:
++ Simple domain status 200 checker
 
 Usage: 
-1. Input will ask for a file. 
-2. example debug_domains.txt
-3. Thread is set to 15 default
-4. dumps file with all domains which return status code 200.
++ Input will ask for a file example debug_domains.txt.
++ Thread is set to 15 default
++ dumps file with all domains (working_results.txt) which return status code 200.
